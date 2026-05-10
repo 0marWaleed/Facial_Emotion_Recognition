@@ -1,0 +1,3 @@
+Model,ACC,ROC-AUC,F1 (macro),Precision,Recall,Kappa,MCC,FLOPs (M),Params (M),Train Time (min),CO2 (g)
+TraditionalCNN,0.4078,0.611,0.1659,0.1415,0.213,0.1805,0.2031,129.99,1.68,17.89,14.3133
+DilatedCNN,0.3879,0.6021,0.1528,0.1479,0.177,0.1784,0.1873,129.99,1.68,17.95,15.0773
